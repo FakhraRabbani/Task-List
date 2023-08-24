@@ -1,1 +1,1 @@
-I created this task list using html, bootsrap and javaScript. User can add tasks, delete tasks and clear all tasks. After loading the page, user can get his tasks back if he hasnt deleted them or cleared.
+I created this task list using html, bootsrap and javaScript. User can add tasks, delete tasks and clear all tasks. After loading the page, user can get his tasks back if he hasnt deleted them or cleared. User can filter tasks also.
